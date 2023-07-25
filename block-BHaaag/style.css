@@ -1,0 +1,28 @@
+body{
+    background-color: #22396A;
+}
+h1{
+    color: white;
+    font-size: 46px;
+}
+address{
+    font-size: 24px;
+    color: white;
+}
+h2{
+    font-size: 34px;
+    color: #31BB66;
+}
+b{
+    color: white;
+    font-size: 28px;
+}
+.para{
+    color: white;
+}
+.b1{
+    font-size: 22px;
+}
+a{
+    color: red;
+}
